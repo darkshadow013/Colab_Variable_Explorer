@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: colabIns
+Version: 0.1
+Summary: Variable Inspector in google colab.
+Home-page: https://github.com/darkshadow013/colabIns
+Author: Himanshu Garg
+Author-email: sonuggc86@gmail.com
+License: UNKNOWN
+Description: Hi Ther
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

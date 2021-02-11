@@ -1,0 +1,3 @@
+[console_scripts]
+colabIns = colabIns.colabIns:main
+
